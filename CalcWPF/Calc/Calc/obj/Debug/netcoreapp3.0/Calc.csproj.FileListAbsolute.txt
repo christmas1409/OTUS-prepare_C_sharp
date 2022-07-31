@@ -1,0 +1,16 @@
+C:\Users\karta\source\repos\Calc\Calc\bin\Debug\netcoreapp3.0\Calc.exe
+C:\Users\karta\source\repos\Calc\Calc\bin\Debug\netcoreapp3.0\Calc.deps.json
+C:\Users\karta\source\repos\Calc\Calc\bin\Debug\netcoreapp3.0\Calc.runtimeconfig.json
+C:\Users\karta\source\repos\Calc\Calc\bin\Debug\netcoreapp3.0\Calc.runtimeconfig.dev.json
+C:\Users\karta\source\repos\Calc\Calc\bin\Debug\netcoreapp3.0\Calc.dll
+C:\Users\karta\source\repos\Calc\Calc\bin\Debug\netcoreapp3.0\Calc.pdb
+C:\Users\karta\source\repos\Calc\Calc\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\karta\source\repos\Calc\Calc\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\karta\source\repos\Calc\Calc\obj\Debug\netcoreapp3.0\Calc_MarkupCompile.cache
+C:\Users\karta\source\repos\Calc\Calc\obj\Debug\netcoreapp3.0\Calc_MarkupCompile.lref
+C:\Users\karta\source\repos\Calc\Calc\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\karta\source\repos\Calc\Calc\obj\Debug\netcoreapp3.0\Calc.g.resources
+C:\Users\karta\source\repos\Calc\Calc\obj\Debug\netcoreapp3.0\Calc.AssemblyInfoInputs.cache
+C:\Users\karta\source\repos\Calc\Calc\obj\Debug\netcoreapp3.0\Calc.AssemblyInfo.cs
+C:\Users\karta\source\repos\Calc\Calc\obj\Debug\netcoreapp3.0\Calc.dll
+C:\Users\karta\source\repos\Calc\Calc\obj\Debug\netcoreapp3.0\Calc.pdb

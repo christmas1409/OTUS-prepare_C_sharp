@@ -1,0 +1,11 @@
+C:\Users\karta\source\repos\Calc\Strings\bin\Debug\netcoreapp3.0\Strings.exe
+C:\Users\karta\source\repos\Calc\Strings\bin\Debug\netcoreapp3.0\Strings.deps.json
+C:\Users\karta\source\repos\Calc\Strings\bin\Debug\netcoreapp3.0\Strings.runtimeconfig.json
+C:\Users\karta\source\repos\Calc\Strings\bin\Debug\netcoreapp3.0\Strings.runtimeconfig.dev.json
+C:\Users\karta\source\repos\Calc\Strings\bin\Debug\netcoreapp3.0\Strings.dll
+C:\Users\karta\source\repos\Calc\Strings\bin\Debug\netcoreapp3.0\Strings.pdb
+C:\Users\karta\source\repos\Calc\Strings\obj\Debug\netcoreapp3.0\Strings.csprojAssemblyReference.cache
+C:\Users\karta\source\repos\Calc\Strings\obj\Debug\netcoreapp3.0\Strings.AssemblyInfoInputs.cache
+C:\Users\karta\source\repos\Calc\Strings\obj\Debug\netcoreapp3.0\Strings.AssemblyInfo.cs
+C:\Users\karta\source\repos\Calc\Strings\obj\Debug\netcoreapp3.0\Strings.dll
+C:\Users\karta\source\repos\Calc\Strings\obj\Debug\netcoreapp3.0\Strings.pdb
