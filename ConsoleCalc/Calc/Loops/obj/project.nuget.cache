@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D3F0q6jneKzhYXYXSfY49KVO0LaACic1Z26AOHIrUUxD2WKk0Zwqg4FFyIDwHhUFm+5fkyxn/6a3NdYdmlOtTg==",
+  "success": true,
+  "projectFilePath": "D:\\OTUS\\C#\\ConsoleCalc\\Calc\\Loops\\Loops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arhim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Arhim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Arhim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Arhim\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

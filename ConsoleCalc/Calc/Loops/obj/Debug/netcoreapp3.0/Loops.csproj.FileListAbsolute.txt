@@ -1,0 +1,11 @@
+C:\Users\karta\source\repos\Calc_1\Loops\bin\Debug\netcoreapp3.0\Loops.exe
+C:\Users\karta\source\repos\Calc_1\Loops\bin\Debug\netcoreapp3.0\Loops.deps.json
+C:\Users\karta\source\repos\Calc_1\Loops\bin\Debug\netcoreapp3.0\Loops.runtimeconfig.json
+C:\Users\karta\source\repos\Calc_1\Loops\bin\Debug\netcoreapp3.0\Loops.runtimeconfig.dev.json
+C:\Users\karta\source\repos\Calc_1\Loops\bin\Debug\netcoreapp3.0\Loops.dll
+C:\Users\karta\source\repos\Calc_1\Loops\bin\Debug\netcoreapp3.0\Loops.pdb
+C:\Users\karta\source\repos\Calc_1\Loops\obj\Debug\netcoreapp3.0\Loops.csprojAssemblyReference.cache
+C:\Users\karta\source\repos\Calc_1\Loops\obj\Debug\netcoreapp3.0\Loops.AssemblyInfoInputs.cache
+C:\Users\karta\source\repos\Calc_1\Loops\obj\Debug\netcoreapp3.0\Loops.AssemblyInfo.cs
+C:\Users\karta\source\repos\Calc_1\Loops\obj\Debug\netcoreapp3.0\Loops.dll
+C:\Users\karta\source\repos\Calc_1\Loops\obj\Debug\netcoreapp3.0\Loops.pdb
