@@ -1,0 +1,14 @@
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\bin\Debug\netcoreapp3.0\Tetris.exe
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\bin\Debug\netcoreapp3.0\Tetris.deps.json
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\bin\Debug\netcoreapp3.0\Tetris.runtimeconfig.json
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\bin\Debug\netcoreapp3.0\Tetris.runtimeconfig.dev.json
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\bin\Debug\netcoreapp3.0\Tetris.dll
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\bin\Debug\netcoreapp3.0\Tetris.pdb
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\obj\Debug\netcoreapp3.0\Tetris.csproj.AssemblyReference.cache
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\obj\Debug\netcoreapp3.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\obj\Debug\netcoreapp3.0\Tetris.AssemblyInfoInputs.cache
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\obj\Debug\netcoreapp3.0\Tetris.AssemblyInfo.cs
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\obj\Debug\netcoreapp3.0\Tetris.csproj.CoreCompileInputs.cache
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\obj\Debug\netcoreapp3.0\Tetris.dll
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\obj\Debug\netcoreapp3.0\Tetris.pdb
+D:\OTUS\C#\Tetris-lesson37-Gui-part-3\Tetris\Tetris\obj\Debug\netcoreapp3.0\Tetris.genruntimeconfig.cache

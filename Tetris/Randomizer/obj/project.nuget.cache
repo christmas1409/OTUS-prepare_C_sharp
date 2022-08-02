@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6kD/6nXEoe1cIH681dGi4mLJv9ZxA+vvv/jpNiJrMhZ25/k3OY/WV6zWdNX9kdbIrg3XLkIZj2XKhWgbPNIcxA==",
+  "success": true,
+  "projectFilePath": "D:\\OTUS\\C#\\Tetris-lesson37-Gui-part-3\\Tetris\\Randomizer\\Randomizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

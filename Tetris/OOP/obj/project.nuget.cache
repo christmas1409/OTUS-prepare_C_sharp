@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GLIfjT9QC3+pzIdf4jhGFdRCl4ZPmghPiWjjnAOzS8nvxq6gO5AQ39V8Wjrzd+X1Guc45ud3OCEyLA6sb/7YOQ==",
+  "success": true,
+  "projectFilePath": "D:\\OTUS\\C#\\Tetris-lesson37-Gui-part-3\\Tetris\\OOP\\OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
